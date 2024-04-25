@@ -1,0 +1,23 @@
+{
+  "name": "practicum-back-end",
+  "version": "1.1.1",
+  "description": "try to understand back end ",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wilbemax/practicum-back_end.git"
+  },
+  "author": "Wilbewmax",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wilbemax/practicum-back_end/issues"
+  },
+  "homepage": "https://github.com/Wilbemax/practicum-back_end#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
